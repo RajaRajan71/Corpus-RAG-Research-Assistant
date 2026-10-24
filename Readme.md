@@ -4,7 +4,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) pipeline that performs hybrid
 
 Powered by BM25, Sentence Transformers, ChromaDB, Google Gemini 3.5 Flash, and Streamlit.
 
-🌟 Features
+## 🌟 Features
 
 Data Processing & Chunking: Streams Wikipedia articles, cleans citations and formatting artifacts, and chunks text into overlapping passages (500 characters, 50-character overlap).
 
