@@ -1,4 +1,4 @@
-📚 Corpus Document Search & Summarization using LLM (RAG Pipeline)
+# 📚 Corpus Document Search & Summarization using LLM (RAG Pipeline)
 
 An end-to-end Retrieval-Augmented Generation (RAG) pipeline that performs hybrid document retrieval and grounded context summarization over a custom Wikipedia corpus on philosophy, history, and science.
 
