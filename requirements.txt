@@ -1,0 +1,10 @@
+streamlit
+google-genai
+python-dotenv
+rank-bm25
+sentence-transformers
+chromadb
+numpy
+datasets
+tqdm
+rouge-score
