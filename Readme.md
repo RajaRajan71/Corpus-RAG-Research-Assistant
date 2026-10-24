@@ -16,7 +16,7 @@ Automated Evaluation Suite: Includes built-in evaluation metrics measuring retri
 
 Interactive Streamlit Web UI: Features topic exploration banners, clickable sample queries, real-time context source expanders, and graceful exception handling for API traffic spikes.
 
-📐 System Architecture
+ ## 📐 System Architecture
 
                                  ┌────────────────────────┐
                                  │ User Query (app.py)    │
@@ -61,7 +61,7 @@ Interactive Streamlit Web UI: Features topic exploration banners, clickable samp
                                └──────────────────────────┘
 
 
-🚀 Quick Start Guide
+## 🚀 Quick Start Guide
 
 Prerequisites
 
@@ -69,14 +69,14 @@ Python 3.9+ installed on your system.
 
 A Google Gemini API Key (Get a free key from Google AI Studio).
 
-Step 1: Clone or Navigate to the Project Directory
+### Step 1: Clone or Navigate to the Project Directory
 
 Open your command prompt or terminal and navigate to the project directory:
 
 cd "C:\Users\Raja Rajan\OneDrive\Desktop\rag"
 
 
-Step 2: Set Up Virtual Environment
+### Step 2: Set Up Virtual Environment
 
 Create and activate a virtual environment to manage dependencies cleanly:
 
@@ -93,7 +93,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 
-Step 3: Install Required Dependencies
+### Step 3: Install Required Dependencies
 
 Install all required Python packages using pip:
 
@@ -118,14 +118,14 @@ streamlit: Interactive web front-end interface.
 
 python-dotenv: Environment variable loader for API key security.
 
-Step 4: Environment Configuration
+### Step 4: Environment Configuration
 
 Create a .env file in the project root directory and add your Gemini API Key:
 
 GEMINI_API_KEY=your_actual_gemini_api_key_here
 
 
-🏃 Running the Application Modules
+# 🏃 Running the Application Modules
 
 1. Data Preparation (data_prep.py)
 
